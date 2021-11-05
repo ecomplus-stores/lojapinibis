@@ -1,24 +1,24 @@
 {
-  "store_id": 14939,
-  "name": "lojapinibis",
   "domain": "lojapinibis.netlify.app",
-  "short_name": "lojapinibis",
-  "description": "lojapinibis",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/lojapinibis",
+  "logo": "/img/uploads/pi.png",
+  "name": "lojapinibis",
+  "short_name": "lojapinibis",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/lojapinibis"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 14939,
+  "description": "lojapinibis",
+  "large_icon": "/img/large-icon.png"
 }
