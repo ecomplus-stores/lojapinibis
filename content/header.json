@@ -1,20 +1,22 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Entrega Expressa para São Paulo e ABC | Produtos a Pronta Entrega",
+    "link": "",
+    "background": "#e3e3e3",
+    "color": "#494646"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Pinibis",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "Cadastre-se | Ver Pedidos",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
