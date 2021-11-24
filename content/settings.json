@@ -1,7 +1,7 @@
 {
   "domain": "lojapinibis.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e22012",
+  "primary_color": "#b0191f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
