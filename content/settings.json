@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/fav.png",
   "country_code": "BR",
   "secondary_color": "#7a7a7a",
-  "icon": "/img/uploads/pinibisb.jpg",
+  "icon": "/img/uploads/fav.png",
   "store_id": 14939,
   "description": "lojapinibis",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/fav.png"
 }
