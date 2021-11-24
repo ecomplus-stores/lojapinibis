@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock{display:none;}",
+  "css": ".product__short-stock{display:none;}\n.header__logo {\n    max-width: 300px;\n    max-height: 180px;\n}",
   "html_head": "",
   "html_body": ""
 }
