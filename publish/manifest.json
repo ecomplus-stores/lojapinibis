@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.53f12f645981483d3b482d60a9905293.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ce3c1fc9728f1534a3b2ada94d498414.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.edd11a19de2f4b23b73e810bcd86905e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1500c4ca6cc25e48ecb28b4d383569ae.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.82da89d64c9824687413084f8eddf56e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "lojapinibis",
+  "short_name": "lojapinibis",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojapinibis",
+  "background_color": "#ffffff",
+  "theme_color": "#b0191f"
+}
