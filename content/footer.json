@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "pinibis",
-    "text": "Sua loja virtual com produtos a pronta entrega e brindes especiais "
+    "text": "sua loja virtual com produtos a pronta entrega e brindes especiais "
   },
   "links_1": {
     "list_pages": true,
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Fale Conosco",
+    "title": "fale conosco",
     "phone_wpp": true,
     "socials": true,
     "email": true,
