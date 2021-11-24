@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojapinibis",
-  "logo": "/img/uploads/pi.png",
+  "logo": "/img/uploads/logo-pinibis.png",
   "name": "lojapinibis",
   "short_name": "lojapinibis",
   "lang": "pt_br",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#7a7a7a",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/pinibisb.jpg",
   "store_id": 14939,
   "description": "lojapinibis",
   "large_icon": "/img/large-icon.png"
