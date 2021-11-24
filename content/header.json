@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Entrega Expressa para São Paulo e ABC | Produtos a Pronta Entrega",
+    "text": "entrega expressa para são paulo e abc | frete grátis para pedidos acima de R$100",
     "link": "",
     "background": "#e3e3e3",
     "color": "#494646"
@@ -8,11 +8,11 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Pinibis",
+        "title": "pinibis",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Cadastre-se | Ver Pedidos",
+        "title": "cadastre-se | ver pedidos",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
