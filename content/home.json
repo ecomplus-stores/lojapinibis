@@ -3,6 +3,17 @@
   "meta_description": "Produtos para Casa, para Pets , Utilidades, Cosméticos e Acessórios",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-11-24T06:30:14.183Z",
+          "end": "2021-11-24T06:30:14.244Z",
+          "img": "/img/uploads/sliidelancamentos.jpg"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "✮ Um brinde à você! ",
       "description": "Todos os pedidos vão com um brinde especial para você! ✮"
