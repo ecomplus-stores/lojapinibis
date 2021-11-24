@@ -22,16 +22,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
-      "sort": "news",
-      "title": "presentes e utilidades ",
-      "link": "https://lojapinibis.netlify.app/presentes"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
       "sort": "news",
       "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
@@ -46,6 +36,16 @@
       "sort": "news",
       "title": "Acessórios ",
       "link": "https://lojapinibis.netlify.app/acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
+      "sort": "news",
+      "title": "presentes e utilidades ",
+      "link": "https://lojapinibis.netlify.app/presentes"
     },
     {
       "type": "collection-shelf",
