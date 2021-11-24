@@ -15,7 +15,7 @@
       "page": 1,
       "sort": "news",
       "link": "https://lojapinibis.netlify.app/para-pets",
-      "title": "Brinquedos Fofos e Utilidades para seu Pet "
+      "title": "brinquedos fofos e utilidades para seu pet "
     },
     {
       "type": "collection-shelf",
@@ -24,7 +24,7 @@
       "page": 1,
       "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
       "sort": "news",
-      "title": "Presentes e Utilidades ",
+      "title": "presentes e utilidades ",
       "link": "https://lojapinibis.netlify.app/presentes"
     },
     {
@@ -34,8 +34,18 @@
       "page": 1,
       "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
       "sort": "news",
-      "title": "Cosméticos a Pronta Entrega - Parcele em até 3x sem juros ",
+      "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
       "link": "https://lojapinibis.netlify.app/cosmeticos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d58eb0c7c727225968d29:categories:Casa e Decoração:/para-casa-e-decoracao",
+      "sort": "news",
+      "title": "para sua casa ",
+      "link": "https://lojapinibis.netlify.app/para-casa-e-decoracao"
     }
   ]
 }
