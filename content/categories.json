@@ -24,10 +24,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h2> veja mais produtos da pinibis</h2>"
     }
   ]
 }
