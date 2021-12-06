@@ -2,5 +2,20 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Nossos contatos: \n\nlojapinibis@gmail.com\n\nwhatsapp: 11 95719-0930\n\n\n\nsua loja virtual com produtos a pronta entrega e brindes especiais",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ]
 }
