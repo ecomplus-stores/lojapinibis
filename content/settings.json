@@ -1,5 +1,5 @@
 {
-  "domain": "lojapinibis.netlify.app",
+  "domain": "pinibis.com.br",
   "currency_symbol": "R$",
   "primary_color": "#b0191f",
   "theme": {
@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojapinibis",
   "logo": "/img/uploads/logo-pinibis.png",
-  "name": "lojapinibis",
-  "short_name": "lojapinibis",
+  "name": "pinibis",
+  "short_name": "pinibis",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#7a7a7a",
   "icon": "/img/uploads/fav.png",
   "store_id": 14939,
-  "description": "lojapinibis",
+  "description": "pinibis sua loja de presentes, acessórios e brinquedos para seu pet. Um brinde especial em cada compra. ",
   "large_icon": "/img/uploads/fav.png"
 }
