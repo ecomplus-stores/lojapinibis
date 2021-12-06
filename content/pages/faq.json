@@ -5,8 +5,17 @@
   "body": "É muito fácil comprar seus produtos na Pinibis\n\nEscolha seus produtos, clique em comprar.\n\nApós escolher todos os produtos que deseja encomendar. Clique em Finalizar Compra\n\nDefina o frete de envio\n\nConfirme seus dados para envio, confira se todos os dados estão corretos, caso falte alguma numeração ou dado para envio, o retorno e reenvio será cobrado do cliente, não nos responsabilizamos por informações incorretas ou dados faltantes.\n\nEscolha a forma de pagamento e finalize a compra.\n\nPronto, seu pedido será embalado para postagem.\n\nAgora é só aguardar seu pedido chegar na sua casa.\n\nPara correios e/ ou transportadora , após postagem a responsabilidade do cumprimento dos prazos é de responsabilidade dos mesmo.\n\nEstaremos sempre acompanhando seu pedido para que ele chegue o quanto antes para você.\n\nSe ficar com alguma dúvida estamos a disposição pelo [whatsapp](https://api.whatsapp.com/send?1=pt_BR&phone=55011957190930) .",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
