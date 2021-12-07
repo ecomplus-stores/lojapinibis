@@ -30,7 +30,7 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "link": "https://lojapinibis.netlify.app/para-pets",
+      "link": "https://pinibis.com.br/para-pets",
       "title": "brinquedos fofos e utilidades para seu pet "
     },
     {
@@ -41,7 +41,7 @@
       "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
       "sort": "news",
       "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
-      "link": "https://lojapinibis.netlify.app/cosmeticos"
+      "link": "https://pinibis.com.br/cosmeticos"
     },
     {
       "type": "collection-shelf",
@@ -51,7 +51,7 @@
       "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
       "sort": "news",
       "title": "Acessórios ",
-      "link": "https://lojapinibis.netlify.app/acessorios"
+      "link": "https://pinibis.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
@@ -61,7 +61,7 @@
       "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
       "sort": "news",
       "title": "Cristais & Pedras",
-      "link": "https://lojapinibis.netlify.app/presentes"
+      "link": "https://pinibis.com.br/presentes"
     },
     {
       "type": "collection-shelf",
@@ -71,7 +71,7 @@
       "collection_id": "619d58eb0c7c727225968d29:categories:Casa e Decoração:/para-casa-e-decoracao",
       "sort": "news",
       "title": "para sua casa ",
-      "link": "https://lojapinibis.netlify.app/para-casa-e-decoracao"
+      "link": "https://pinibis.com.br/para-casa-e-decoracao"
     }
   ]
 }
