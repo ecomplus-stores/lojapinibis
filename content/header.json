@@ -9,11 +9,11 @@
     "pages": [
       {
         "title": "pinibis",
-        "link": "/pages/sobre-nos"
+        "link": "https://pinibis.com.br/pages/sobre-nos"
       },
       {
         "title": "cadastre-se | ver pedidos",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://pinibis.com.br/app/#/account/"
       }
     ],
     "phone_wpp": false,
