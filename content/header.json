@@ -20,7 +20,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/para-pets?para pets",
+      "/pedras--cristais?Pedras & Cristais",
+      "/acessorios?acessórios",
+      "/cosmeticos?cosméticos",
+      "/presentes?presentes",
+      "/para-casa-e-decoracao?casa & decoração"
+    ],
     "random": 6,
     "full_width": true
   },
