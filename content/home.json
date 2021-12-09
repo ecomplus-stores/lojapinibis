@@ -21,6 +21,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "page-title",
       "title": "✮ Um brinde a você! ",
       "description": "Todos os pedidos vão com um brinde especial para você! ✮"
@@ -67,7 +72,7 @@
       "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
       "sort": "news",
       "title": "Cristais & Pedras",
-      "link": "https://pinibis.com.br/presentes"
+      "link": "https://pinibis.com.br/pedras--cristais"
     },
     {
       "type": "collection-shelf",
