@@ -73,16 +73,6 @@
       "sort": "news",
       "title": "Cristais & Pedras",
       "link": "https://pinibis.com.br/pedras--cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d58eb0c7c727225968d29:categories:Casa e Decoração:/para-casa-e-decoracao",
-      "sort": "news",
-      "title": "para sua casa ",
-      "link": "https://pinibis.com.br/para-casa-e-decoracao"
     }
   ]
 }
