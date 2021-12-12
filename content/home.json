@@ -9,11 +9,6 @@
       "mobile_img": "/img/uploads/faixamobile.jpg"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/esotericosrcristais.jpg",
       "link": "https://pinibis.com.br/pedras--cristais",
@@ -80,6 +75,11 @@
       "sort": "news",
       "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
       "link": "https://pinibis.com.br/cosmeticos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     }
   ]
 }
