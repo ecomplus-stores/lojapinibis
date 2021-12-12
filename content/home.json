@@ -3,22 +3,10 @@
   "meta_description": "Produtos para Casa, para Pets , Utilidades, Cosméticos e Acessórios",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-11-24T06:30:14.183Z",
-          "end": "",
-          "img": "/img/uploads/sliidelancamentos.jpg",
-          "link": "https://pinibis.com.br/para-casa-e-decoracao"
-        },
-        {
-          "start": "2021-11-24T06:32:51.532Z",
-          "end": "",
-          "img": "/img/uploads/sa.jpg",
-          "link": "https://pinibis.com.br/cosmeticos"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/faixa.jpg",
+      "link": "https://pinibis.com.br/pages/entrega",
+      "mobile_img": "/img/uploads/faixamobile.jpg"
     },
     {
       "type": "dynamic-showcase",
@@ -26,9 +14,28 @@
       "sort": "news"
     },
     {
-      "type": "page-title",
-      "title": "✮ Um brinde a você! ",
-      "description": "Todos os pedidos vão com um brinde especial para você! ✮"
+      "type": "responsive-banner",
+      "img": "/img/uploads/esotericosrcristais.jpg",
+      "link": "https://pinibis.com.br/pedras--cristais",
+      "alt": "Cristais & Esotéricos",
+      "mobile_img": "/img/uploads/esotericosrcristaismobile.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
+      "sort": "news",
+      "title": "cristais & esotéricos",
+      "link": "https://pinibis.com.br/pedras--cristais"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/petsdezd.jpg",
+      "link": "https://pinibis.com.br/para-pets",
+      "mobile_img": "/img/uploads/petsdezmobile.jpg",
+      "alt": "Brinquedos e Acessórios para Cachorro e Gatos"
     },
     {
       "type": "collection-shelf",
@@ -41,18 +48,11 @@
       "title": "brinquedos fofos e utilidades para seu pet "
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
-      "sort": "news",
-      "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
-      "link": "https://pinibis.com.br/cosmeticos"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/acessoriosdezd.jpg",
+      "link": "https://pinibis.com.br/acessorios",
+      "alt": "Acessórios : Pingente, Pulseiras , Anéis, Brincos e Colares",
+      "mobile_img": "/img/uploads/acessoriosdezmobile.jpg"
     },
     {
       "type": "collection-shelf",
@@ -65,14 +65,21 @@
       "link": "https://pinibis.com.br/acessorios"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cosmeticosdezd.jpg",
+      "link": "https://pinibis.com.br/cosmeticos",
+      "alt": "Cosméticos e Kits : Maquiagem e Skincare",
+      "mobile_img": "/img/uploads/cosmeticosdezmobile.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "619d72fa0c7c72722596ca84:categories:Presentes:/presentes",
+      "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
       "sort": "news",
-      "title": "cristais & esotéricos",
-      "link": "https://pinibis.com.br/pedras--cristais"
+      "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
+      "link": "https://pinibis.com.br/cosmeticos"
     }
   ]
 }
