@@ -77,6 +77,10 @@
       "link": "https://pinibis.com.br/cosmeticos"
     },
     {
+      "type": "page-title",
+      "title": "Novidades e Lançamentos "
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
