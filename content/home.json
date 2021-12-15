@@ -55,7 +55,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
-      "sort": "news",
+      "sort": "offers",
       "title": "Acessórios ",
       "link": "https://pinibis.com.br/acessorios"
     },
@@ -72,7 +72,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "619d72e10c7c72722596ca01:categories:cosméticos:/cosmeticos",
-      "sort": "news",
+      "sort": "offers",
       "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
       "link": "https://pinibis.com.br/cosmeticos"
     },
