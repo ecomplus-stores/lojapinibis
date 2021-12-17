@@ -21,7 +21,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61b272b80c7c727225c2f6ec:categories:pedras&cristais:/pedras--cristais",
-      "sort": "offers",
+      "sort": "news",
       "title": "cristais & esotéricos",
       "link": "https://pinibis.com.br/pedras--cristais"
     },
@@ -38,7 +38,7 @@
       "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "link": "https://pinibis.com.br/para-pets",
       "title": "brinquedos fofos e utilidades para seu pet "
     },
@@ -55,7 +55,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
-      "sort": "offers",
+      "sort": "news",
       "title": "Acessórios ",
       "link": "https://pinibis.com.br/acessorios"
     },
@@ -72,7 +72,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "619d72e10c7c72722596ca01:categories:cosméticos:/cosmeticos",
-      "sort": "offers",
+      "sort": "news",
       "title": "cosméticos a pronta entrega - parcele em até 3x sem juros ",
       "link": "https://pinibis.com.br/cosmeticos"
     },
