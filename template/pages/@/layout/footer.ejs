@@ -167,7 +167,7 @@ const contacts = _.cms('contacts') || {}
               <% if (footer.payment_methods[method]) { %>
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
-            <% }) %>
+            <% }) %><br>Pague suas compras no cartão de crédito | Boleto | PIX
           </p>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
@@ -177,8 +177,8 @@ const contacts = _.cms('contacts') || {}
     </div>
 
     <div class="footer__credits">
-      <span>
-        <%= footer.credits || `© ${_.store.name} / ${contacts.address} / ${contacts.doc_number}` %>
+      <span> 
+        <%= footer.credits || `© ${_.store.name} / ${contacts.address} / ${contacts.doc_number}` %><br> PINIBIS  - CNPJ:11.130.278/0001-08 | SP - CEP: 04298-030 - © 2021 Todos os direitos reservados
       </span>
       <button
         id="go-to-top"
