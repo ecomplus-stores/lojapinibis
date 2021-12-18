@@ -4,9 +4,34 @@
     "text": "Na pinibis, você encontra presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. Só trabalhamos com produtos a pronta entrega. Aqui na Pinibis todos nossos produtos vão com brindes especiais para sua experiência de compra seja especial."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Info",
-    "list": []
+    "list": [
+      {
+        "text": "entregas | frete | promoções",
+        "url": "https://pinibis.com.br/pages/entrega"
+      },
+      {
+        "text": "formas de pagamento",
+        "url": "https://pinibis.com.br/pages/pagamentos"
+      },
+      {
+        "text": "como comprar",
+        "url": "https://pinibis.com.br/pages/faq"
+      },
+      {
+        "text": "privacidade & segurança",
+        "url": "https://pinibis.com.br/pages/privacidade"
+      },
+      {
+        "text": "pinibis",
+        "url": "https://pinibis.com.br/pages/sobre-nos"
+      },
+      {
+        "text": "trocas & devoluções",
+        "url": "https://pinibis.com.br/pages/trocas"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
