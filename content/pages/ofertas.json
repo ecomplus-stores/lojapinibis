@@ -1,0 +1,22 @@
+{
+  "title": "Ofertas",
+  "meta_title": "Ofertas | Pronta Entrega | Cristais | Brinquedos Pets | Acessórios | Cosméticos",
+  "meta_description": "Confira as Ofertas da Pinibis pra Você! Parcele em até 3x sem juros no cartão",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Confira as Ofertas na Pinibis ",
+      "description": "Produtos a pronta entrega, parcele em até 3x sem juros no cartão"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ],
+  "body": "OFERTAS"
+}
