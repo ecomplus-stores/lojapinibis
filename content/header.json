@@ -6,16 +6,7 @@
     "color": "#494646"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "pinibis",
-        "link": "https://pinibis.com.br/pages/sobre-nos"
-      },
-      {
-        "title": "cadastre-se | ver pedidos",
-        "link": "https://pinibis.com.br/app/#/account/"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },
