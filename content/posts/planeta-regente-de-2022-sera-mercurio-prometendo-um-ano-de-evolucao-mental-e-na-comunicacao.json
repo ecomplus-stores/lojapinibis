@@ -12,7 +12,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/planeta-regente-de-2022mercurio-b.jpg"
+      "img": "/img/uploads/planeta-regente-de-2022mercurio-b.jpg",
+      "link": "https://pinibis.com.br/pedras--cristais",
+      "alt": "Veja produtos esotéricos"
     },
     {
       "type": "page-title"
