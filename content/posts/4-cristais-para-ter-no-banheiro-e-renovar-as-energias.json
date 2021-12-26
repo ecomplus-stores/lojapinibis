@@ -14,6 +14,10 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/4-cristais-para-ter-no-banheiro-e-renovar-as-energias.jpg"
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
@@ -27,5 +31,6 @@
       "link": "https://pinibis.com.br/pedras--cristais",
       "title": "conheça os produtos em pedras & cristais "
     }
-  ]
+  ],
+  "thumbnail": "/img/uploads/4-cristais-para-ter-no-banheiro-e-renovar-as-energias.jpg"
 }
