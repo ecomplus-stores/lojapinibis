@@ -29,17 +29,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/blogpinibis.jpg",
-          "link": "https://pinibis.com.br/blog",
-          "alt": "Acompanhe nosso Blog"
+          "img": "/img/uploads/makecomestico-2022-home.jpg",
+          "link": "https://pinibis.com.br/cosmeticos",
+          "alt": "Make & Cosméticos a Pronta Entrega"
         },
         {
-          "img": "/img/uploads/dicasecuidadospets.jpg",
-          "link": "https://pinibis.com.br/posts/dicas-e-cuidados-para-verao-de-seu-pet"
-        },
-        {
-          "img": "/img/uploads/planeta-regente-de-2022mercurio.jpg",
-          "link": "https://pinibis.com.br/posts/planeta-regente-de-2022-sera-mercurio-prometendo-um-ano-de-evolucao-mental-e-na-comunicacao"
+          "img": "/img/uploads/acessorio-home-2022.jpg",
+          "link": "https://pinibis.com.br/acessorios",
+          "alt": "Acessórios para compor Looks Incríveis "
         }
       ]
     },
@@ -79,14 +76,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/makecomestico-2022-home.jpg",
-          "link": "https://pinibis.com.br/cosmeticos",
-          "alt": "Make & Cosméticos a Pronta Entrega"
+          "img": "/img/uploads/blogpinibis.jpg",
+          "link": "https://pinibis.com.br/blog",
+          "alt": "Acompanhe nosso Blog"
         },
         {
-          "img": "/img/uploads/acessorio-home-2022.jpg",
-          "link": "https://pinibis.com.br/acessorios",
-          "alt": "Acessórios para compor Looks Incríveis "
+          "img": "/img/uploads/dicasecuidadospets.jpg",
+          "link": "https://pinibis.com.br/posts/dicas-e-cuidados-para-verao-de-seu-pet"
+        },
+        {
+          "img": "/img/uploads/planeta-regente-de-2022mercurio.jpg",
+          "link": "https://pinibis.com.br/posts/planeta-regente-de-2022-sera-mercurio-prometendo-um-ano-de-evolucao-mental-e-na-comunicacao"
         }
       ]
     }
