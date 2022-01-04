@@ -12,7 +12,7 @@
       "type": "responsive-banner",
       "img": "/img/uploads/petshome2022.jpg",
       "link": "https://pinibis.com.br/para-pets",
-      "mobile_img": "",
+      "mobile_img": "/img/uploads/petshome2022m.jpg",
       "alt": "Brinquedos e Acessórios para Cachorro e Gatos"
     },
     {
@@ -45,7 +45,7 @@
       "img": "/img/uploads/pedras-cristais-home-2022.jpg",
       "link": "https://pinibis.com.br/pedras--cristais",
       "alt": "Cristais & Esotéricos",
-      "mobile_img": ""
+      "mobile_img": "/img/uploads/pedras-cristais-home-2022m.jpg"
     },
     {
       "type": "collection-shelf",
@@ -59,9 +59,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/faixa.jpg",
+      "img": "/img/uploads/fachadad2022.jpg",
       "link": "https://pinibis.com.br/pages/entrega",
-      "mobile_img": "/img/uploads/faixamobile.jpg"
+      "mobile_img": "/img/uploads/fachadad2022m.jpg"
     },
     {
       "type": "page-title",
