@@ -8,10 +8,6 @@
       "type": "page-title"
     },
     {
-      "type": "document-description",
-      "enabled": true
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -19,6 +15,10 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "document-description",
+      "enabled": true
     }
   ]
 }
