@@ -1,11 +1,11 @@
 {
   "sections": [
     {
-      "type": "document-banner",
-      "enabled": true
+      "type": "page-title"
     },
     {
-      "type": "page-title"
+      "type": "responsive-banner",
+      "img": "/img/uploads/faixadesktopfrete.gif"
     },
     {
       "type": "breadcrumbs",
