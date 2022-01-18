@@ -9,6 +9,16 @@
       "alt": "Aproveite o FRETE GRÁTIS para estado de SP "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
+      "sort": "news",
+      "title": "Confira mais Pedras e Cristais Brutas e Roladas a Pronta Entrega  ",
+      "link": "https://pinibis.com.br/pedras-esotericas-cristais"
+    },
+    {
       "type": "page-title",
       "title": "Lançamentos e Novidades do Mês, confira"
     },
@@ -48,16 +58,6 @@
       "link": "https://pinibis.com.br/pedras--cristais",
       "alt": "Cristais & Esotéricos",
       "mobile_img": "/img/uploads/pedras-cristais-home-2022m.jpg"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61b272b80c7c727225c2f6ec:categories:pedras&cristais:/pedras--cristais",
-      "sort": "sales",
-      "title": "Pedras & Cristais : Acessórios e esotéricos a pronta entrega",
-      "link": "https://pinibis.com.br/pedras--cristais"
     },
     {
       "type": "responsive-banner",
