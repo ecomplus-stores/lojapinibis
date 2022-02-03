@@ -17,6 +17,21 @@
       "img": "/img/uploads/fachadad2022.jpg",
       "link": "https://pinibis.com.br/pages/entrega",
       "mobile_img": "/img/uploads/fachadad2022m.jpg"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-02-03T02:23:54.116Z",
+          "end": "",
+          "img": "/img/uploads/pets-frete-gratis-pinibis.jpg",
+          "mobile_img": "/img/uploads/pets-frete-gratis-pinibis-mobile.jpg",
+          "link": "https://pinibis.com.br/para-pets",
+          "alt": "Confira nossa Seção Para Pets "
+        }
+      ]
     }
   ]
 }
