@@ -4,10 +4,6 @@
       "type": "page-title"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/faixadesktopfrete.gif"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
