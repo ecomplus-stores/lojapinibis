@@ -3,22 +3,6 @@
   "meta_description": "Na pinibis, você encontra presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://pinibis.com.br/para-pets",
-      "title": "Acessórios e Brinquedos para Pets"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fachadad2022.jpg",
-      "link": "https://pinibis.com.br/pages/entrega",
-      "mobile_img": "/img/uploads/fachadad2022m.jpg"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -32,6 +16,22 @@
           "alt": "Confira nossa Seção Para Pets "
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "link": "https://pinibis.com.br/para-pets",
+      "title": "Acessórios e Brinquedos para Pets"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fachadad2022.jpg",
+      "link": "https://pinibis.com.br/pages/entrega",
+      "mobile_img": "/img/uploads/fachadad2022m.jpg"
     }
   ]
 }
