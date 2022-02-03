@@ -3,31 +3,6 @@
   "meta_description": "Na pinibis, você encontra presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/faixadesktopfrete.gif",
-      "link": "https://pinibis.com.br/pages/entrega",
-      "alt": "Aproveite o FRETE GRÁTIS para estado de SP "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
-      "sort": "news",
-      "title": "Confira mais Pedras e Cristais Brutas e Roladas a Pronta Entrega  ",
-      "link": "https://pinibis.com.br/pedras-esotericas-cristais"
-    },
-    {
-      "type": "page-title",
-      "title": "Lançamentos e Novidades do Mês, confira"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
@@ -38,50 +13,10 @@
       "title": "Acessórios e Brinquedos para Pets"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/makecomestico-2022-home.jpg",
-          "link": "https://pinibis.com.br/cosmeticos",
-          "alt": "Make & Cosméticos a Pronta Entrega"
-        },
-        {
-          "img": "/img/uploads/acessorio-home-2022.jpg",
-          "link": "https://pinibis.com.br/acessorios",
-          "alt": "Acessórios para compor Looks Incríveis "
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pedras-cristais-home-2022.jpg",
-      "link": "https://pinibis.com.br/pedras--cristais",
-      "alt": "Cristais & Esotéricos",
-      "mobile_img": "/img/uploads/pedras-cristais-home-2022m.jpg"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/fachadad2022.jpg",
       "link": "https://pinibis.com.br/pages/entrega",
       "mobile_img": "/img/uploads/fachadad2022m.jpg"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/blogpinibis.jpg",
-          "link": "https://pinibis.com.br/blog",
-          "alt": "Acompanhe nosso Blog"
-        },
-        {
-          "img": "/img/uploads/dicasecuidadospets.jpg",
-          "link": "https://pinibis.com.br/posts/dicas-e-cuidados-para-verao-de-seu-pet"
-        },
-        {
-          "img": "/img/uploads/planeta-regente-de-2022mercurio.jpg",
-          "link": "https://pinibis.com.br/posts/planeta-regente-de-2022-sera-mercurio-prometendo-um-ano-de-evolucao-mental-e-na-comunicacao"
-        }
-      ]
     }
   ]
 }
