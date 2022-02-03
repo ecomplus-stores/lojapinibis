@@ -18,6 +18,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
+          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
+        },
+        {
+          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/camas-tocas-colchonetes-para-cachorro-gatos"
+        },
+        {
+          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/acessorios-para-cachorro-gatos"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
