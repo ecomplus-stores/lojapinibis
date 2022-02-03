@@ -43,12 +43,6 @@
       "sort": "views",
       "link": "https://pinibis.com.br/para-pets",
       "title": "Acessórios e Brinquedos para Pets"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fachadad2022.jpg",
-      "link": "https://pinibis.com.br/pages/entrega",
-      "mobile_img": "/img/uploads/fachadad2022m.jpg"
     }
   ]
 }
