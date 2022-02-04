@@ -8,21 +8,31 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-02-04T03:58:23.904Z",
+          "end": "",
+          "img": "/img/uploads/pedras-roladas-oferta-home.jpg",
+          "link": "https://pinibis.com.br/pedras-esotericas-cristais",
+          "mobile_img": "/img/uploads/pedras-roladas-oferta-mobile.jpg"
+        },
+        {
           "start": "2022-02-03T02:23:54.116Z",
           "end": "",
           "img": "/img/uploads/pets-frete-gratis-pinibis.jpg",
           "mobile_img": "/img/uploads/pets-frete-gratis-pinibis-mobile.jpg",
           "link": "https://pinibis.com.br/para-pets",
           "alt": "Confira nossa Seção Para Pets "
-        },
-        {
-          "start": "2022-02-04T03:58:23.904Z",
-          "end": "",
-          "img": "/img/uploads/pedras-roladas-oferta-home.jpg",
-          "link": "https://pinibis.com.br/pedras-esotericas-cristais",
-          "mobile_img": "/img/uploads/pedras-roladas-oferta-mobile.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
+      "sort": "news",
+      "link": "https://pinibis.com.br/acessorios",
+      "title": "Acessórios - Parcele em até 3x sem juros no cartão"
     },
     {
       "type": "banners-grid",
@@ -59,16 +69,6 @@
           "link": "https://pinibis.com.br/acessorios"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
-      "sort": "news",
-      "link": "https://pinibis.com.br/acessorios",
-      "title": "Acessórios - Parcele em até 3x sem juros no cartão"
     },
     {
       "type": "banners-grid",
