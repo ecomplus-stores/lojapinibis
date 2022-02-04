@@ -28,6 +28,29 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/cristais-bannersec-home.jpg",
+          "link": "https://pinibis.com.br/pedras--cristais"
+        },
+        {
+          "img": "/img/uploads/pirita-pedrasbrutas-bannerl.jpg",
+          "link": "https://pinibis.com.br/pedras-brutas"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
+      "sort": "offers",
+      "link": "https://pinibis.com.br/pedras-esotericas-cristais",
+      "title": "Pedras e Esotéricos , veja mais "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
           "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
         },
@@ -56,16 +79,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "619d72e10c7c72722596ca01:categories:cosméticos:/cosmeticos",
-      "sort": "lowest_price",
-      "title": "Cosméticos confira produtos a pronta entrega",
-      "link": "https://pinibis.com.br/cosmeticos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
       "sort": "lowest_price",
       "link": "https://pinibis.com.br/acessorios",
@@ -76,10 +89,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
-      "sort": "offers",
-      "link": "https://pinibis.com.br/pedras-esotericas-cristais",
-      "title": "Pedras e Esotéricos , veja mais "
+      "collection_id": "619d72e10c7c72722596ca01:categories:cosméticos:/cosmeticos",
+      "sort": "lowest_price",
+      "title": "Cosméticos confira produtos a pronta entrega",
+      "link": "https://pinibis.com.br/cosmeticos"
     }
   ]
 }
