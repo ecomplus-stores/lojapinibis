@@ -1,7 +1,7 @@
 {
   "domain": "pinibis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ce1219",
+  "primary_color": "#28a745",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,7 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "Outfit",
   "favicon": "/img/uploads/fav.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/fav.png",
