@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 7000,
       "full_width": true,
       "slides": [
         {
@@ -16,7 +16,7 @@
           "alt": "Confira nossa Seção Para Pets "
         },
         {
-          "start": "2022-02-04T02:54:15.159Z",
+          "start": "2022-02-04T03:58:23.904Z",
           "end": "",
           "img": "/img/uploads/pedras-roladas-oferta-home.jpg",
           "link": "https://pinibis.com.br/pedras-roladas",
