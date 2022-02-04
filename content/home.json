@@ -51,6 +51,29 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/acessorios-banne1r.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/acessorios-banner.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
+      "sort": "news",
+      "link": "https://pinibis.com.br/acessorios",
+      "title": "Acessórios - Parcele em até 3x sem juros no cartão"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
           "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
         },
@@ -73,29 +96,6 @@
       "sort": "views",
       "link": "https://pinibis.com.br/para-pets",
       "title": "Acessórios e Brinquedos para Pets"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios-banne1r.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/acessorios-banner.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d96c70c7c7272259723a7:categories:acessórios:/acessorios",
-      "sort": "news",
-      "link": "https://pinibis.com.br/acessorios",
-      "title": "Acessórios - Parcele em até 3x sem juros no cartão"
     },
     {
       "type": "collection-shelf",
