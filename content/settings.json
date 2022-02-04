@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Outfit",
-  "favicon": "/img/uploads/fav.png",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/uploads/fav.png",
+  "icon": "/img/uploads/favapp.png",
   "store_id": 14939,
   "description": "Na pinibis, você encontra presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. Só trabalhamos com produtos a pronta entrega. Aqui na Pinibis todos nossos produtos vão com brindes especiais para sua experiência de compra seja especial.",
-  "large_icon": "/img/uploads/fav.png"
+  "large_icon": "/img/uploads/favapp.png"
 }
