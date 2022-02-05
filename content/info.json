@@ -1,11 +1,13 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Entregamos para todo o Brasil"
+    "show": true,
+    "text": "Frete Grátis para Estado de SP * Confira",
+    "link": "https://pinibis.com.br/pages/entrega"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele sem juros"
+    "show": true,
+    "text": "Garanta 5% de desconto no PIX | Parcele em até 3x sem juros no cartão",
+    "link": "https://pinibis.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
