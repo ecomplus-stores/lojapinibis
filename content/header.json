@@ -12,12 +12,10 @@
   },
   "categories_list": {
     "featured": [
-      "/para-pets?para pets",
-      "/pedras--cristais?pedras&cristais",
-      "/acessorios?acessórios",
-      "/cosmeticos?cosméticos",
-      "/presentes?presentes",
-      "/para-casa-e-decoracao?casa & decoração"
+      "/acessorios?Acessórios",
+      "/cosmeticos?Cosméticos",
+      "/pedras--cristais?Pedras & Cristais",
+      "/sob-encomenda?Sob Encomenda"
     ],
     "random": 7,
     "full_width": true
