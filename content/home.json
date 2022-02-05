@@ -106,6 +106,10 @@
       "sort": "news",
       "link": "https://pinibis.com.br/para-pets",
       "title": "Acessórios e Brinquedos para Pets"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
