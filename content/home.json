@@ -75,8 +75,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "619d72e10c7c72722596ca01:categories:cosméticos:/cosmeticos",
-      "sort": "lowest_price",
+      "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
+      "sort": "news",
       "title": "Cosméticos confira produtos a pronta entrega",
       "link": "https://pinibis.com.br/cosmeticos"
     },
@@ -100,10 +100,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "619d536d0c7c727225967ce9:categories:para pets:/para-pets",
+      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "link": "https://pinibis.com.br/para-pets",
       "title": "Acessórios e Brinquedos para Pets"
     }
