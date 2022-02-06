@@ -14,10 +14,11 @@
     "featured": [
       "/acessorios?Acessórios",
       "/cosmeticos?Cosméticos",
+      "/para-pets?Para Pets",
       "/pedras--cristais?Pedras & Cristais",
       "/sob-encomenda?Sob Encomenda"
     ],
-    "random": 7,
+    "random": 5,
     "full_width": true
   },
   "search_input": true
