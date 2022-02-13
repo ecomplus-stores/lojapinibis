@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Confira Lançamentos"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
