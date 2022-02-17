@@ -92,6 +92,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
+      "sort": "news",
+      "link": "https://pinibis.com.br/pedras--cristais",
+      "title": "Pedras e Esotéricos "
+    },
+    {
       "type": "banner-slider",
       "autoplay": 7000,
       "full_width": true,
