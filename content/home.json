@@ -37,8 +37,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "banners-grid",
