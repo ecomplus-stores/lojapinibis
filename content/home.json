@@ -3,6 +3,95 @@
   "meta_description": "Na pinibis, você encontra presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/slidesdesktop-smartwatches.jpg",
+      "mobile_img": "/img/uploads/smartwatches-mobile.jpg",
+      "link": "https://pinibis.com.br/smartwatch",
+      "alt": "Os Melhores Preços em SmartWatches"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "link": "https://pinibis.com.br/smartwatch",
+      "title": "SmartWatches com as Melhores Ofertas",
+      "collection_id": "620850ac7963422eeefe796a:categories:Smartwatches:/smartwatch"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620d7e677963422eee082975:categories:Relógios Masculinos:/relogios-masculinos",
+      "sort": "news",
+      "link": "https://pinibis.com.br/relogios-masculinos",
+      "title": "Relógios Masculinos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "620d9c927963422eee0875e1:categories:Relógios Femininos:/relogios-femininos",
+      "title": "Relógios Unissex e Femininos",
+      "link": "https://pinibis.com.br/relogios-femininos"
+    },
+    {
+      "type": "page-title",
+      "title": "Confira Lançamentos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cristais-bannersec-home.jpg",
+          "link": "https://pinibis.com.br/pedras--cristais"
+        },
+        {
+          "img": "/img/uploads/pirita-pedrasbrutas-bannerl.jpg",
+          "link": "https://pinibis.com.br/pedras-brutas"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-banne1r.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/acessorios-banner.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/camas-tocas-colchonetes-para-cachorro-gatos"
+        },
+        {
+          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
+          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
+        },
+        {
+          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/acessorios-para-cachorro-gatos"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 7000,
       "full_width": true,
@@ -30,88 +119,6 @@
           "alt": "Confira nossa Seção Para Pets "
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": "Confira Lançamentos"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cristais-bannersec-home.jpg",
-          "link": "https://pinibis.com.br/pedras--cristais"
-        },
-        {
-          "img": "/img/uploads/pirita-pedrasbrutas-bannerl.jpg",
-          "link": "https://pinibis.com.br/pedras-brutas"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61e6f6180c7c7272251337e9:collections:Pedras Esotéricas e Cristais Naturais:/pedras-esotericas-cristais",
-      "sort": "news",
-      "link": "https://pinibis.com.br/pedras-esotericas-cristais",
-      "title": "Pedras e Esotéricos , veja mais "
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios-banne1r.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/acessorios-banner.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d72e10c7c72722596ca01:categories:Cosméticos:/cosmeticos",
-      "sort": "news",
-      "title": "Cosméticos confira produtos a pronta entrega",
-      "link": "https://pinibis.com.br/cosmeticos"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/camas-tocas-colchonetes-para-cachorro-gatos"
-        },
-        {
-          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
-          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
-        },
-        {
-          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/acessorios-para-cachorro-gatos"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "link": "https://pinibis.com.br/para-pets",
-      "title": "Acessórios e Brinquedos para Pets"
     },
     {
       "type": "info-bar",
