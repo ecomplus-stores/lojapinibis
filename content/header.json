@@ -16,9 +16,11 @@
       "/cosmeticos?Cosméticos",
       "/para-pets?Para Pets",
       "/pedras--cristais?Pedras & Cristais",
-      "/smartwatch?Smartwatches"
+      "/smartwatch?Smartwatches",
+      "/relogios-masculinos?Relógios Masculinos",
+      "/relogios-femininos?Relógios Femininos"
     ],
-    "random": 5,
+    "random": 9,
     "full_width": true
   },
   "search_input": true,
