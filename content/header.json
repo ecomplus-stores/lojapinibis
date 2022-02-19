@@ -13,11 +13,11 @@
   "categories_list": {
     "featured": [
       "/acessorios?Acessórios",
+      "/acessorios-masculinos?Acessórios Masculinos",
       "/para-pets?Para Pets",
       "/pedras--cristais?Pedras & Cristais",
-      "/acessorios-masculinos?Acessórios Masculinos",
-      "/smartwatch?Smartwatches",
-      "/relogios?Relógios"
+      "/relogios?Relógios",
+      "/smartwatch?Smartwatches"
     ],
     "random": 9,
     "full_width": true
