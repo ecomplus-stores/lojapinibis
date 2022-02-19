@@ -3,17 +3,17 @@
   "meta_description": "Na pinibis, você encontra smartwatches, relógios, presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/slidesdesktop-smartwatches.jpg",
       "mobile_img": "/img/uploads/smartwatches-mobile.jpg",
       "link": "https://pinibis.com.br/smartwatch",
       "alt": "Os Melhores Preços em SmartWatches"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "collection-shelf",
