@@ -13,7 +13,8 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": null
+      "sort": "name",
+      "autoplay": 0
     },
     {
       "type": "collection-shelf",
