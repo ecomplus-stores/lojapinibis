@@ -15,9 +15,9 @@
       "/acessorios?Acessórios",
       "/para-pets?Para Pets",
       "/pedras--cristais?Pedras & Cristais",
-      "/relogios-femininos?Relógios Femininos",
-      "/relogios-masculinos?Relógios Masculinos",
-      "/smartwatch?Smartwatches"
+      "/acessorios-masculinos?Acessórios Masculinos",
+      "/smartwatch?Smartwatches",
+      "/relogios?Relógios"
     ],
     "random": 9,
     "full_width": true
