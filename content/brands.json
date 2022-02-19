@@ -11,6 +11,10 @@
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
