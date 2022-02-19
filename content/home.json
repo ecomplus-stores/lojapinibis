@@ -10,12 +10,6 @@
       "alt": "Os Melhores Preços em SmartWatches"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
