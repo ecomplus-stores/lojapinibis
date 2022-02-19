@@ -11,11 +11,6 @@
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     }
   ]
 }
