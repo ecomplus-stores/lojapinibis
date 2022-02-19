@@ -13,6 +13,11 @@
       "sort": "news"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "document-description",
       "enabled": true
     },
