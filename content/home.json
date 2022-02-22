@@ -35,6 +35,23 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "page": 1,
+      "title": "Acessórios para Pets ",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://pinibis.com.br/para-pets",
+      "limit": 12,
+      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
