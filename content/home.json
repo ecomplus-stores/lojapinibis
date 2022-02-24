@@ -12,23 +12,57 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6216f2f47963422eee18b5cd:categories:Decoração:/decoracao",
-      "sort": "news",
-      "link": "https://pinibis.com.br/decoracao"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-banne1r.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/acessorios-banner.jpg",
+          "link": "https://pinibis.com.br/acessorios"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620d7e677963422eee082975:categories:Relógios Masculinos:/relogios-masculinos",
+      "collection_id": "621068527963422eee0d441a:brands:Cristais & Esotéricos:/cristais-esotericos",
+      "sort": "views",
+      "title": "Cristais & Esotéricos a Pronta Entrega",
+      "link": "https://pinibis.com.br/pedras--cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6216f2f47963422eee18b5cd:categories:Decoração:/decoracao",
+      "sort": "news",
+      "link": "https://pinibis.com.br/decoracao",
+      "title": "Últimos dias de Frete Grátis para SP . Aproveite! Válido nas compras a partir de R$49,99 "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d74760c7c72722596ce36:brands:Acessórios:/acessorios-folheados",
+      "sort": "views",
+      "title": "Acessórios - Folheados a Prata e Ouro ",
+      "link": "https://pinibis.com.br/acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62105e547963422eee0d3a55:brands:Relógios:/relogios",
       "sort": "views",
       "link": "https://pinibis.com.br/relogios",
-      "title": "Últimos dias de Frete Grátis para SP , Aproveite! Válido nas compras a partir de R$49,99 "
+      "title": "Relógios , vem conferir"
     },
     {
       "type": "banners-grid",
@@ -57,29 +91,6 @@
       "limit": 12,
       "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios-banne1r.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/acessorios-banner.jpg",
-          "link": "https://pinibis.com.br/acessorios"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621068527963422eee0d441a:brands:Cristais & Esotéricos:/cristais-esotericos",
-      "sort": "views",
-      "title": "Cristais & Esotéricos a Pronta Entrega",
-      "link": "https://pinibis.com.br/pedras--cristais"
     },
     {
       "type": "info-bar",
