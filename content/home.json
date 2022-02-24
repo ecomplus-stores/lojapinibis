@@ -3,11 +3,6 @@
   "meta_description": "Na pinibis, você encontra  presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -16,6 +11,11 @@
       "sort": "news",
       "link": "https://pinibis.com.br/acessorios",
       "title": "Últimos dias de Frete Grátis para SP , Aproveite! Válido nas compras a partir de R$49,99 "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
