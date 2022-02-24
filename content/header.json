@@ -15,9 +15,11 @@
       "/acessorios?Acessórios",
       "/acessorios-masculinos?Acessórios Masculinos",
       "/pedras--cristais?Pedras & Cristais",
-      "/para-pets?Para Pets"
+      "/para-pets?Para Pets",
+      "/decoracao?Decoração",
+      "/relogios?Relógios"
     ],
-    "random": 4,
+    "random": 6,
     "full_width": true
   },
   "search_input": true,
