@@ -52,6 +52,16 @@
       "title": "Relógios , vem conferir"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62105e117963422eee0d3a07:brands:Smartwatches:/smartwatches",
+      "sort": "views",
+      "link": "https://pinibis.com.br/smartwatches",
+      "title": "Smartwatches"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -82,16 +92,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62105e117963422eee0d3a07:brands:Smartwatches:/smartwatches",
-      "sort": "views",
-      "link": "https://pinibis.com.br/smartwatches",
-      "title": "Smartwatches"
     }
   ]
 }
