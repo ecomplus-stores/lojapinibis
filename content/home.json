@@ -7,7 +7,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "619d96c70c7c7272259723a7:categories:Acessórios:/acessorios",
+      "collection_id": "620d7e677963422eee082975:categories:Relógios Masculinos:/relogios-masculinos",
       "sort": "news",
       "link": "https://pinibis.com.br/acessorios",
       "title": "Últimos dias de Frete Grátis para SP , Aproveite! Válido nas compras a partir de R$49,99 "
@@ -71,6 +71,12 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
