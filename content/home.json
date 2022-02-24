@@ -3,14 +3,8 @@
   "meta_description": "Na pinibis, você encontra  presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620d7e677963422eee082975:categories:Relógios Masculinos:/relogios-masculinos",
-      "sort": "views",
-      "link": "https://pinibis.com.br/relogios",
-      "title": "Últimos dias de Frete Grátis para SP , Aproveite! Válido nas compras a partir de R$49,99 "
+      "type": "page-title",
+      "title": "Confira os Lançamentos do Mês"
     },
     {
       "type": "dynamic-showcase",
@@ -25,6 +19,16 @@
       "collection_id": "6216f2f47963422eee18b5cd:categories:Decoração:/decoracao",
       "sort": "news",
       "link": "https://pinibis.com.br/decoracao"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620d7e677963422eee082975:categories:Relógios Masculinos:/relogios-masculinos",
+      "sort": "views",
+      "link": "https://pinibis.com.br/relogios",
+      "title": "Últimos dias de Frete Grátis para SP , Aproveite! Válido nas compras a partir de R$49,99 "
     },
     {
       "type": "banners-grid",
