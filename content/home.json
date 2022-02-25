@@ -11,7 +11,8 @@
           "start": "2022-02-25T00:46:15.871Z",
           "end": "",
           "img": "/img/uploads/decorpinibismarco.jpg",
-          "link": "https://pinibis.com.br/decoracao"
+          "link": "https://pinibis.com.br/decoracao",
+          "mobile_img": "/img/uploads/decorpinibismarco-mobile.jpg"
         },
         {
           "start": "2022-02-25T00:47:23.297Z",
@@ -23,7 +24,8 @@
           "start": "2022-02-25T00:50:53.210Z",
           "end": "",
           "img": "/img/uploads/esotericosmarco.jpg",
-          "link": "https://pinibis.com.br/cristais-esotericos"
+          "link": "https://pinibis.com.br/cristais-esotericos",
+          "mobile_img": "/img/uploads/esotericosmarco-mobile.jpg"
         }
       ]
     },
