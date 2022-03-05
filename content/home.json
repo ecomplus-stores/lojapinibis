@@ -30,13 +30,32 @@
       "sort": "name"
     },
     {
-      "type": "page-title",
-      "title": "Confira os Lançamentos do Mês"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/para-pets"
+        },
+        {
+          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
+          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
+        },
+        {
+          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
+          "link": "https://pinibis.com.br/para-pets"
+        }
+      ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "page": 1,
+      "title": "Acessórios para Pets ",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://pinibis.com.br/para-pets",
+      "limit": 12,
+      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -79,41 +98,14 @@
       "title": "Relógios , vem conferir"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
-      "collection_id": "62105e117963422eee0d3a07:brands:Smartwatches:/smartwatches",
-      "sort": "views",
+      "title": "Smartwatches",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
       "link": "https://pinibis.com.br/smartwatches",
-      "title": "Smartwatches"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/para-pets"
-        },
-        {
-          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
-          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
-        },
-        {
-          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/para-pets"
-        }
-      ]
-    },
-    {
-      "page": 1,
-      "title": "Acessórios para Pets ",
-      "shuffle": false,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "https://pinibis.com.br/para-pets",
       "limit": 12,
-      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
+      "collection_id": "62105e117963422eee0d3a07:brands:Smartwatches:/smartwatches",
       "sort": "views"
     },
     {
