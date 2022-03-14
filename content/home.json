@@ -3,17 +3,6 @@
   "meta_description": "Na pinibis, você encontra  presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -33,6 +22,17 @@
           "mobile_img": "/img/uploads/relogiosmarco-mobile.jpg"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "banners-grid",
