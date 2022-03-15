@@ -24,6 +24,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -42,60 +48,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camastocas-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/para-pets"
-        },
-        {
-          "img": "/img/uploads/pets-brinquedos-pinibis-home.jpg",
-          "link": "https://pinibis.com.br/brinquedos-para-cachorro-gatos"
-        },
-        {
-          "img": "/img/uploads/acessorios-pets-pinibis.jpg",
-          "link": "https://pinibis.com.br/para-pets"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d74760c7c72722596ce36:brands:Acessórios:/acessorios-folheados",
-      "sort": "views",
-      "title": "Acessórios - Folheados a Prata e Ouro ",
-      "link": "https://pinibis.com.br/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62105e547963422eee0d3a55:brands:Relógios:/relogios",
-      "sort": "views",
-      "link": "https://pinibis.com.br/relogios",
-      "title": "Relógios , vem conferir"
-    },
-    {
-      "page": 1,
-      "title": "Smartwatches",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://pinibis.com.br/smartwatches",
-      "limit": 12,
-      "collection_id": "62105e117963422eee0d3a07:brands:Smartwatches:/smartwatches",
-      "sort": "views"
     },
     {
       "type": "info-bar",
