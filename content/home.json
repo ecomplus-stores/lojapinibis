@@ -32,14 +32,19 @@
       "link": "https://pinibis.com.br/brincos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
+      "sort": "views",
+      "title": "Confira nossa seção Para Pets ",
+      "link": "https://pinibis.com.br/para-pets"
+    },
+    {
       "type": "page-title",
       "title": "Aproveite Frete Grátis para SP nas compras a partir de R$190",
       "description": "Confira as Novidades do Mês "
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     },
     {
       "type": "info-bar",
