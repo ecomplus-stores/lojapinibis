@@ -3,19 +3,6 @@
   "meta_description": "Na pinibis, você encontra  presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-03-22T23:11:07.256Z",
-          "end": "",
-          "img": "/img/uploads/bs.jpg",
-          "link": "https://pinibis.com.br/pedras--cristais"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
