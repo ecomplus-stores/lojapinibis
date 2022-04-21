@@ -1,49 +1,11 @@
 {
-  "meta_title": "Loja Pinibis -  Compre Online com Os Melhores Preços ",
-  "meta_description": "Na pinibis, você encontra  presentes esotéricos, cristais, acessórios em pedras, cosméticos e produtos para seu pet. Produtos Selecionados e de Qualidade para você que gosta de comprar online e receber rapidamente seus produtos. ",
+  "meta_title": "Pinibis - Magazine com Variedades e Preços Imbatíveis ",
+  "meta_description": "",
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61cbadf20c7c727225e6e36f:categories:Brincos e Anéis:/brincos",
-      "sort": "news",
-      "title": "Anéis e Brincos a Pronta Entrega , vem conferir",
-      "link": "https://pinibis.com.br/brincos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "619d536d0c7c727225967ce9:categories:Para Pets:/para-pets",
-      "sort": "views",
-      "title": "Confira nossa seção Para Pets ",
-      "link": "https://pinibis.com.br/para-pets"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621068527963422eee0d441a:brands:Cristais & Esotéricos:/cristais-esotericos",
-      "sort": "views",
-      "link": "https://pinibis.com.br/cristais-esotericos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Frete Grátis para Estado de SP nas compras a partir de R$190 "
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "info-bar",
