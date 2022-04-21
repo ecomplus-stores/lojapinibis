@@ -1,26 +1,26 @@
 {
   "domain": "pinibis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ff6040",
+  "primary_color": "#9e0b38",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojapinibis",
-  "logo": "/img/uploads/l20.png",
+  "logo": "/img/uploads/pinibis-variedade-compreonline.png",
   "name": "Pinibis - Encontre Decoração | Presentes | Smartwatches | Acessórios | Para Pets | Esotéricos",
-  "short_name": "Loja Pinibis - Compre Online | Envio Rápido e Seguro ",
+  "short_name": "Pinibis - Loja Online de Variedades ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Outfit",
-  "favicon": "/img/uploads/l21.png",
+  "font_family": "Roboto Condensed",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/uploads/l21.png",
+  "icon": "/img/uploads/favicon.png",
   "store_id": 14939,
-  "description": "Loja Pinibis , somos uma loja online, enviamos para Todo Brasil. Envio Rápido e Seguro. Pedras e cristais, acessórios, produtos para pets, esotéricos. \nEstamos localizados em São Paulo , capital. \nDúvidas chame nosso whatsapp. ",
-  "large_icon": "/img/uploads/l21.png"
+  "description": "Loja Online de variedades , na Pinibis você encontra produtos a pronta entrega com preços imbatíveis. \nEnviamos para Todo Brasil. \nEstamos em São Paulo - Capital, não temos loja física. \nDúvidas , Sugestões e Parcerias nos chame no whastapp :) ",
+  "large_icon": "/img/uploads/favicon.png"
 }
