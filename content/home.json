@@ -3,6 +3,78 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/cristais_pedras_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/pedras-esotericas-cristais"
+        },
+        {
+          "img": "/img/uploads/hakras_cristais_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/diversos"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-22T00:29:47.144Z",
+          "end": "",
+          "img": "/img/uploads/tais_beneficios_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/pedras-esotericas-cristais"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aneis_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/brincos"
+        },
+        {
+          "img": "/img/uploads/pulseiras_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/pulseiras"
+        },
+        {
+          "img": "/img/uploads/colares_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/colares"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-22T00:32:03.665Z",
+          "end": "",
+          "img": "/img/uploads/cessorios_looks_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/acessorios"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-22T00:32:47.985Z",
+          "end": "",
+          "img": "/img/uploads/cosmeticos_make_pinibis_compreonline.webp"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
