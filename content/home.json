@@ -34,6 +34,10 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -49,10 +53,6 @@
           "link": "https://pinibis.com.br/colares"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     },
     {
       "type": "banner-slider",
