@@ -57,20 +57,6 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-04-22T00:32:03.665Z",
-          "end": "",
-          "img": "/img/uploads/cessorios_looks_pinibis_compreonline.webp",
-          "link": "https://pinibis.com.br/acessorios",
-          "mobile_img": "/img/uploads/acessorios_looks_pinibis_compreonline_mobile.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
       "slides": [
@@ -103,19 +89,6 @@
           "end": "",
           "img": "/img/uploads/pets_petshop_pinibis_compreonline.webp",
           "link": "https://pinibis.com.br/para-pets"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/para-caes_pinibis_petshop.webp",
-          "link": "https://pinibis.com.br/para-caes"
-        },
-        {
-          "img": "/img/uploads/para-gatos_pinibis_petshop.webp",
-          "link": "https://pinibis.com.br/para-gatos"
         }
       ]
     },
