@@ -3,6 +3,25 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-22T00:29:47.144Z",
+          "end": "",
+          "img": "/img/uploads/tais_beneficios_pinibis_compreonline.webp",
+          "link": "https://pinibis.com.br/caixas-presente",
+          "mobile_img": "/img/uploads/cristais_beneficios_pinibis_compreonline_mobile.jpg"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -18,25 +37,6 @@
           "link": "https://pinibis.com.br/diversos"
         }
       ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-04-22T00:29:47.144Z",
-          "end": "",
-          "img": "/img/uploads/tais_beneficios_pinibis_compreonline.webp",
-          "link": "https://pinibis.com.br/pedras-esotericas-cristais",
-          "mobile_img": "/img/uploads/cristais_beneficios_pinibis_compreonline_mobile.jpg"
-        }
-      ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "banners-grid",
